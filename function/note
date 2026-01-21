@@ -1,0 +1,2 @@
+function : it is a block of code , that perform spesific task , runs only when it called
+void printmsg(), - void means no value is returned , function only performs an action(printing)

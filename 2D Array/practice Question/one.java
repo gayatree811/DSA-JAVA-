@@ -1,0 +1,1 @@
+//find the minimum element out of all the maximum element of each row
